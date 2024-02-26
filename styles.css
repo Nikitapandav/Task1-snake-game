@@ -1,0 +1,6 @@
+/* Styles for the canvas */
+canvas {
+    display: block;
+    margin: 0 auto;
+    background-color: black;
+}
